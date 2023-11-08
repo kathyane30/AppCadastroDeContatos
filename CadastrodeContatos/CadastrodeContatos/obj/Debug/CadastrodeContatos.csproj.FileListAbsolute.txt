@@ -1,0 +1,10 @@
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\bin\Debug\CadastrodeContatos.exe.config
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\bin\Debug\CadastrodeContatos.exe
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\bin\Debug\CadastrodeContatos.pdb
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\obj\Debug\CadastrodeContatos.csproj.AssemblyReference.cache
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\obj\Debug\CadastrodeContatos.Form1.resources
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\obj\Debug\CadastrodeContatos.Properties.Resources.resources
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\obj\Debug\CadastrodeContatos.csproj.GenerateResource.cache
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\obj\Debug\CadastrodeContatos.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\obj\Debug\CadastrodeContatos.exe
+C:\Users\android\Documents\Kathyane\CadastrodeContatos\CadastrodeContatos\obj\Debug\CadastrodeContatos.pdb
